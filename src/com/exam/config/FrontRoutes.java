@@ -10,5 +10,6 @@ public class FrontRoutes extends Routes {
     @Override
     public void config() {
         add("/", CommonController.class, "/");
+        //add("/build", CommonController.class, "/");
     }
 }

@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3b5c89e-4a71-4b42-b120-2f6151f70b46" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/exam/config/CommonConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/exam/config/FrontRoutes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/exam/controller/front/CommonController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/pages/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SearchAlgorithm_BackEnd_war_exploded/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/SearchAlgorithm_BackEnd_war_exploded/index_old.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/SearchAlgorithm.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/exam.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/index_old.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/pages/build.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SearchAlgorithm_BackEnd_war_exploded/WEB-INF/classes/com/exam/config/FrontRoutes.class" afterPath="$PROJECT_DIR$/out/artifacts/SearchAlgorithm_BackEnd_war_exploded/WEB-INF/classes/com/exam/config/FrontRoutes.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SearchAlgorithm_BackEnd_war_exploded/WEB-INF/classes/com/exam/controller/front/CommonController.class" afterPath="$PROJECT_DIR$/out/artifacts/SearchAlgorithm_BackEnd_war_exploded/WEB-INF/classes/com/exam/controller/front/CommonController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SearchAlgorithm_BackEnd/com/exam/config/FrontRoutes.class" afterPath="$PROJECT_DIR$/out/production/SearchAlgorithm_BackEnd/com/exam/config/FrontRoutes.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SearchAlgorithm_BackEnd/com/exam/controller/front/CommonController.class" afterPath="$PROJECT_DIR$/out/production/SearchAlgorithm_BackEnd/com/exam/controller/front/CommonController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/SearchAlgorithm_BackEnd_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/SearchAlgorithm_BackEnd_war_exploded/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/exam/config/FrontRoutes.java" afterPath="$PROJECT_DIR$/src/com/exam/config/FrontRoutes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/exam/controller/front/CommonController.java" afterPath="$PROJECT_DIR$/src/com/exam/controller/front/CommonController.java" />
     </list>
     <ignored path="SearchAlgorithm_BackEnd.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,11 +58,9 @@
         <entry file="file://$PROJECT_DIR$/src/com/exam/config/FrontRoutes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,9 +69,12 @@
       <file leaf-file-name="CommonController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/exam/controller/front/CommonController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26397514">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              <folding />
+            <state vertical-scroll-proportion="0.5015528">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -221,6 +215,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchAlgorithm_BackEnd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SearchAlgorithm_BackEnd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -852,12 +868,12 @@
       <workItem from="1475212371939" duration="751000" />
       <workItem from="1475235691554" duration="441000" />
       <workItem from="1475240324658" duration="917000" />
-      <workItem from="1475285225857" duration="2628000" />
+      <workItem from="1475285225857" duration="3098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4737000" />
+    <option name="totallyTimeSpent" value="5207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -968,20 +984,29 @@
     <entry file="file://$PROJECT_DIR$/src/com/exam/config/FrontRoutes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/pages/build.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/exam/controller/front/CommonController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26397514">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
+        <state vertical-scroll-proportion="0.5015528">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

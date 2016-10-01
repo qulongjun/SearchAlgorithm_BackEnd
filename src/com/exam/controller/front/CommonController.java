@@ -9,4 +9,11 @@ public class CommonController extends Controller {
     public void index() {
         render("index.html");
     }
+
+    public void build() {
+
+        System.out.println("cdsds");
+        render("build.html");
+
+    }
 }
